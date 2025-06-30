@@ -1,2 +1,5 @@
-# EliteAuctions ( An-online-auction-bidding-system )
-An online auction website for selling luxuries items
+# Aukshan
+Real Time Bidding website
+
+#For live demo
+https://youtu.be/tYBaWnGmzJQ
